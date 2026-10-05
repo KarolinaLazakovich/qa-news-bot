@@ -20,13 +20,13 @@ jobs:
         with:
           python-version: '3.11'
           cache: pip
-          cache-dependency-path: qa-news-bot/requirements.txt
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
-        run: pip install -r qa-news-bot/requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run digest bot
-        working-directory: qa-news-bot/bot
+        working-directory: bot
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
