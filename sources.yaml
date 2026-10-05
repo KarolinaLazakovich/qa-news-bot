@@ -1,0 +1,88 @@
+feeds:
+  mobile_testing:
+    - name: "BrowserStack Blog"
+      url: "https://www.browserstack.com/blog/feed/"
+      lang: en
+      lookback_hours: 72
+    - name: "Applitools Blog"
+      url: "https://applitools.com/blog/feed/"
+      lang: en
+      lookback_hours: 72
+    - name: "Android Developers Blog"
+      url: "https://android-developers.googleblog.com/feeds/posts/default"
+      lang: en
+      lookback_hours: 120
+    - name: "Habr — Мобильное тестирование"
+      url: "https://habr.com/ru/rss/search/all/?q=мобильное+тестирование"
+      lang: ru
+      lookback_hours: 168
+    - name: "Habr — iOS"
+      url: "https://habr.com/ru/rss/search/all/?q=iOS+тестирование"
+      lang: ru
+      lookback_hours: 168
+    - name: "Habr — Android тестирование"
+      url: "https://habr.com/ru/rss/search/all/?q=Android+тестирование"
+      lang: ru
+      lookback_hours: 168
+
+  qa_general:
+    - name: "Google Testing Blog"
+      url: "https://testing.googleblog.com/feeds/posts/default"
+      lang: en
+      lookback_hours: 168
+    - name: "Evil Tester Blog"
+      url: "https://www.eviltester.com/index.xml"
+      lang: en
+      lookback_hours: 168
+    - name: "Habr — Тестирование"
+      url: "https://habr.com/ru/rss/search/all/?q=тестирование"
+      lang: ru
+      lookback_hours: 168
+    - name: "Habr — QA"
+      url: "https://habr.com/ru/rss/search/all/?q=qa+тестирование"
+      lang: ru
+      lookback_hours: 168
+    - name: "Habr — Автоматизация тестирования"
+      url: "https://habr.com/ru/rss/search/all/?q=автоматизация+тестирования"
+      lang: ru
+      lookback_hours: 168
+
+  ai_testing:
+    - name: "Mabl Blog"
+      url: "https://www.mabl.com/blog/rss.xml"
+      lang: en
+      lookback_hours: 168
+    - name: "Lobsters — Testing"
+      url: "https://lobste.rs/t/testing.rss"
+      lang: en
+      lookback_hours: 72
+    - name: "Habr — AI в тестировании"
+      url: "https://habr.com/ru/rss/search/all/?q=ИИ+тестирование"
+      lang: ru
+      lookback_hours: 168
+
+  pentesting:
+    - name: "PortSwigger Research"
+      url: "https://portswigger.net/research/rss"
+      lang: en
+      lookback_hours: 168
+    - name: "PortSwigger Blog"
+      url: "https://portswigger.net/blog/rss"
+      lang: en
+      lookback_hours: 168
+    - name: "Intigriti Blog"
+      url: "https://blog.intigriti.com/feed/"
+      lang: en
+      lookback_hours: 168
+    - name: "Bishop Fox Blog"
+      url: "https://bishopfox.com/blog/rss.xml"
+      lang: en
+      lookback_hours: 168
+    - name: "Хакер.ру"
+      url: "https://xakep.ru/feed/"
+      lang: ru
+      lookback_hours: 168
+    - name: "Habr — Пентест"
+      url: "https://habr.com/ru/rss/search/all/?q=пентест"
+      lang: ru
+      lookback_hours: 168

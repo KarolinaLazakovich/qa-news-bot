@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Env files — never commit tokens
+.env
+*.env
+
+# OS
+.DS_Store
+
+# Logs
+*.log
