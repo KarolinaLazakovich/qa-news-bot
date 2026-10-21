@@ -1,13 +1,4 @@
 {
-  "https://habr.com/ru/companies/usetech/articles/1090920/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1090920": "2026-10-06T12:58:55.662079+00:00",
-  "https://xakep.ru/2026/10/06/openai-distillation/": "2026-10-06T12:58:55.662079+00:00",
-  "https://xakep.ru/2026/10/06/github-secrets/": "2026-10-06T12:58:55.662079+00:00",
-  "https://www.mabl.com/blog/agentic-ai-software-testing": "2026-10-07T07:51:06.119505+00:00",
-  "https://portswigger.net/research/the-model-isnt-cooperating": "2026-10-07T07:51:06.119505+00:00",
-  "https://bishopfox.com/blog/why-ai-attack-surface-extends-your-stack": "2026-10-07T07:51:06.119505+00:00",
-  "https://xakep.ru/2026/10/06/wagenius-sentenced/": "2026-10-07T07:51:06.119505+00:00",
-  "https://xakep.ru/2026/10/06/killsec-down/": "2026-10-07T07:51:06.119505+00:00",
-  "https://habr.com/ru/articles/1091142/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1091142": "2026-10-07T07:51:06.119505+00:00",
   "https://www.browserstack.com/blog/solving-for-better-issue-triage-and-prioritization-with-the-unified-table-view/": "2026-10-07T12:53:06.702425+00:00",
   "https://www.intigriti.com/blog/business-insights/beyond-asset-discovery-real-life-crowdrecon-use-case-explored": "2026-10-07T12:53:06.702425+00:00",
   "https://xakep.ru/2026/10/07/spectre-btr/": "2026-10-07T12:53:06.702425+00:00",
@@ -53,5 +44,10 @@
   "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time": "2026-10-20T11:06:37.070387+00:00",
   "https://habr.com/ru/companies/lemana_tech/articles/1095350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095350": "2026-10-20T11:06:37.070387+00:00",
   "https://xakep.ru/2026/10/20/opencode-leak/": "2026-10-20T11:06:37.070387+00:00",
-  "https://xakep.ru/2026/10/20/adfection/": "2026-10-20T11:06:37.070387+00:00"
+  "https://xakep.ru/2026/10/20/adfection/": "2026-10-20T11:06:37.070387+00:00",
+  "https://www.mabl.com/blog/agentic-development-tech-stack": "2026-10-21T11:23:16.342975+00:00",
+  "https://jepsen.io/analyses/orkes-conductor-5.3.2": "2026-10-21T11:23:16.342975+00:00",
+  "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling": "2026-10-21T11:23:16.342975+00:00",
+  "https://xakep.ru/2026/10/21/php2shell/": "2026-10-21T11:23:16.342975+00:00",
+  "https://xakep.ru/2026/10/21/emudhra-certs/": "2026-10-21T11:23:16.342975+00:00"
 }
