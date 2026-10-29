@@ -1,12 +1,4 @@
 {
-  "https://www.browserstack.com/blog/introducing-browserstack-load-testing/": "2026-10-15T11:01:58.943342+00:00",
-  "https://habr.com/ru/articles/1094096/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1094096": "2026-10-15T11:01:58.943342+00:00",
-  "https://www.mabl.com/blog/the-race-condition-hiding-in-your-flaky-test-mabl": "2026-10-15T11:01:58.943342+00:00",
-  "https://portswigger.net/blog/burp-at-whats-new-since-black-hat": "2026-10-15T11:01:58.943342+00:00",
-  "https://bishopfox.com/blog/how-physical-penetration-testing-secures-sensitive-conversations": "2026-10-15T11:01:58.943342+00:00",
-  "https://bishopfox.com/blog/xss-siemens-teamcenters-login-redirect-cve-2026-58113": "2026-10-15T11:01:58.943342+00:00",
-  "https://xakep.ru/2026/10/15/anthropic-police-tip/": "2026-10-15T11:01:58.943342+00:00",
-  "https://xakep.ru/2026/10/15/ledger-hardware-implants/": "2026-10-15T11:01:58.943342+00:00",
   "https://app14743.cloudwayssites.com/blog/agentic-testing-guardrails-confidence/": "2026-10-16T10:58:00.904215+00:00",
   "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html": "2026-10-16T10:58:00.904215+00:00",
   "https://habr.com/ru/companies/otus/articles/1088876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088876": "2026-10-16T10:58:00.904215+00:00",
@@ -54,5 +46,12 @@
   "https://bishopfox.com/blog/responder-guidance-for-php2shell": "2026-10-28T12:20:53.637188+00:00",
   "https://xakep.ru/2026/10/28/biznes-zh/": "2026-10-28T12:20:53.637188+00:00",
   "https://xakep.ru/2026/10/28/kali-linux-2026-3/": "2026-10-28T12:20:53.637188+00:00",
-  "https://habr.com/ru/articles/1097210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097210": "2026-10-28T12:20:53.637188+00:00"
+  "https://habr.com/ru/articles/1097210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097210": "2026-10-28T12:20:53.637188+00:00",
+  "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development": "2026-10-29T12:30:17.321384+00:00",
+  "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance": "2026-10-29T12:30:17.321384+00:00",
+  "https://habr.com/ru/articles/1101184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101184": "2026-10-29T12:30:17.321384+00:00",
+  "https://www.mabl.com/blog/agentic-testing": "2026-10-29T12:30:17.321384+00:00",
+  "https://portswigger.net/blog/heading-to-san-francisco-meet-portswigger-at-owasp-global-appsec-usa-2026": "2026-10-29T12:30:17.321384+00:00",
+  "https://xakep.ru/2026/10/29/dreamhost-incedent/": "2026-10-29T12:30:17.321384+00:00",
+  "https://xakep.ru/2026/10/29/github-malware-2/": "2026-10-29T12:30:17.321384+00:00"
 }
