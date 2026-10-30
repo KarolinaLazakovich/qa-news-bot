@@ -1,13 +1,4 @@
 {
-  "https://app14743.cloudwayssites.com/blog/agentic-testing-guardrails-confidence/": "2026-10-16T10:58:00.904215+00:00",
-  "https://android-developers.googleblog.com/2026/10/android-developers-blog-is-moving.html": "2026-10-16T10:58:00.904215+00:00",
-  "https://habr.com/ru/companies/otus/articles/1088876/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1088876": "2026-10-16T10:58:00.904215+00:00",
-  "https://habr.com/ru/articles/1095218/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095218": "2026-10-16T10:58:00.904215+00:00",
-  "https://www.mabl.com/blog/agentic-development": "2026-10-16T10:58:00.904215+00:00",
-  "https://www.intigriti.com/blog/business-insights/what-id-verification-changes-mean-for-public-bug-bounty-programs-at-intigriti": "2026-10-16T10:58:00.904215+00:00",
-  "https://bishopfox.com/blog/ai-security-scoping-define-what-to-test-in-your-deployment": "2026-10-16T10:58:00.904215+00:00",
-  "https://xakep.ru/2026/10/16/october-2026-patches/": "2026-10-16T10:58:00.904215+00:00",
-  "https://xakep.ru/2026/10/16/cve-2026-105445/": "2026-10-16T10:58:00.904215+00:00",
   "https://www.browserstack.com/blog/browserstack-recognized-as-a-challenger-in-the-2026-gartner-magic-quadrant-for-digital-accessibility/": "2026-10-19T12:31:00.840245+00:00",
   "https://shkspr.mobi/blog/2026/10/some-thoughts-on-unit-testing-activitypub/": "2026-10-19T12:31:00.840245+00:00",
   "https://xakep.ru/2026/10/19/ai-vpn/": "2026-10-19T12:31:00.840245+00:00",
@@ -53,5 +44,9 @@
   "https://www.mabl.com/blog/agentic-testing": "2026-10-29T12:30:17.321384+00:00",
   "https://portswigger.net/blog/heading-to-san-francisco-meet-portswigger-at-owasp-global-appsec-usa-2026": "2026-10-29T12:30:17.321384+00:00",
   "https://xakep.ru/2026/10/29/dreamhost-incedent/": "2026-10-29T12:30:17.321384+00:00",
-  "https://xakep.ru/2026/10/29/github-malware-2/": "2026-10-29T12:30:17.321384+00:00"
+  "https://xakep.ru/2026/10/29/github-malware-2/": "2026-10-29T12:30:17.321384+00:00",
+  "https://www.mabl.com/blog/scaling-testing-agents-across-the-enterprise": "2026-10-30T12:22:06.109185+00:00",
+  "https://bishopfox.com/blog/journey-into-claudes-sandbox": "2026-10-30T12:22:06.109185+00:00",
+  "https://xakep.ru/2026/10/30/intelbras/": "2026-10-30T12:22:06.109185+00:00",
+  "https://xakep.ru/2026/10/30/binance-hacked/": "2026-10-30T12:22:06.109185+00:00"
 }
