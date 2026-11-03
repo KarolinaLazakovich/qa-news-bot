@@ -1,8 +1,4 @@
 {
-  "https://developer.android.com/blog/posts/grab-r8-profile-guided-optimization-anr-startup-time": "2026-10-20T11:06:37.070387+00:00",
-  "https://habr.com/ru/companies/lemana_tech/articles/1095350/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1095350": "2026-10-20T11:06:37.070387+00:00",
-  "https://xakep.ru/2026/10/20/opencode-leak/": "2026-10-20T11:06:37.070387+00:00",
-  "https://xakep.ru/2026/10/20/adfection/": "2026-10-20T11:06:37.070387+00:00",
   "https://www.mabl.com/blog/agentic-development-tech-stack": "2026-10-21T11:23:16.342975+00:00",
   "https://jepsen.io/analyses/orkes-conductor-5.3.2": "2026-10-21T11:23:16.342975+00:00",
   "https://www.intigriti.com/blog/business-insights/ai-raised-the-floor-the-hacker-crowd-keeps-raising-the-ceiling": "2026-10-21T11:23:16.342975+00:00",
@@ -50,5 +46,12 @@
   "https://jepsen.io/analyses/particledb-1.1.4": "2026-11-02T15:02:40.922724+00:00",
   "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026": "2026-11-02T15:02:40.922724+00:00",
   "https://xakep.ru/2026/11/02/htb-makesense/": "2026-11-02T15:02:40.922724+00:00",
-  "https://xakep.ru/2026/11/02/binance-tradertraitor/": "2026-11-02T15:02:40.922724+00:00"
+  "https://xakep.ru/2026/11/02/binance-tradertraitor/": "2026-11-02T15:02:40.922724+00:00",
+  "https://www.browserstack.com/blog/a-new-look-for-the-next-era-of-browserstack/": "2026-11-03T13:48:46.348314+00:00",
+  "https://app14743.cloudwayssites.com/blog/customer-product-alignment-engineering-time/": "2026-11-03T13:48:46.348314+00:00",
+  "https://developer.android.com/blog/posts/building-apps-developer-sessions": "2026-11-03T13:48:46.348314+00:00",
+  "https://habr.com/ru/articles/1103046/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1103046": "2026-11-03T13:48:46.348314+00:00",
+  "https://www.intigriti.com/blog/news/php2shell-revisited-real-world-risk": "2026-11-03T13:48:46.348314+00:00",
+  "https://xakep.ru/2026/11/03/meganews-331/": "2026-11-03T13:48:46.348314+00:00",
+  "https://xakep.ru/2026/11/03/polymarket-debugbear/": "2026-11-03T13:48:46.348314+00:00"
 }
