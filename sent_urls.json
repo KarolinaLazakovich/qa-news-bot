@@ -1,9 +1,4 @@
 {
-  "https://habr.com/ru/articles/1098668/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1098668": "2026-10-26T12:28:55.374340+00:00",
-  "https://habr.com/ru/companies/innostage/articles/1099392/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099392": "2026-10-26T12:28:55.374340+00:00",
-  "https://portswigger.net/blog/php2shell-x-burp-suite-detection-in-your-hands-within-a-day-of-disclosure": "2026-10-26T12:28:55.374340+00:00",
-  "https://xakep.ru/2026/10/26/soc-forum-2026-program/": "2026-10-26T12:28:55.374340+00:00",
-  "https://xakep.ru/2026/10/26/litellm-hacked/": "2026-10-26T12:28:55.374340+00:00",
   "https://habr.com/ru/articles/1099592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1099592": "2026-10-27T11:47:20.190715+00:00",
   "https://habr.com/ru/companies/2gis/articles/1097934/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097934": "2026-10-27T11:47:20.190715+00:00",
   "https://xakep.ru/2026/10/27/broccoli2shell/": "2026-10-27T11:47:20.190715+00:00",
@@ -58,5 +53,10 @@
   "https://www.mabl.com/blog/agentic-ai-testing-jobs-to-be-done-and-tools-mabl": "2026-11-06T13:54:54.856868+00:00",
   "https://bishopfox.com/blog/what-is-an-agent-harness-how-ai-security-tools-work": "2026-11-06T13:54:54.856868+00:00",
   "https://xakep.ru/2026/11/06/icloud-haring-content/": "2026-11-06T13:54:54.856868+00:00",
-  "https://xakep.ru/2026/11/06/openai-linux/": "2026-11-06T13:54:54.856868+00:00"
+  "https://xakep.ru/2026/11/06/openai-linux/": "2026-11-06T13:54:54.856868+00:00",
+  "https://developer.android.com/blog/posts/build-android-xr-devices-tools": "2026-11-09T15:32:52.406923+00:00",
+  "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/": "2026-11-09T15:32:52.406923+00:00",
+  "https://alperenkeles.com/posts/bug-finding-considered-harmful/": "2026-11-09T15:32:52.406923+00:00",
+  "https://xakep.ru/2026/11/09/cve-2026-119977/": "2026-11-09T15:32:52.406923+00:00",
+  "https://xakep.ru/2026/11/09/tools-332/": "2026-11-09T15:32:52.406923+00:00"
 }
