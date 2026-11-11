@@ -1,12 +1,4 @@
 {
-  "https://habr.com/ru/companies/bastion/articles/1097820/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097820": "2026-10-28T12:20:53.637188+00:00",
-  "https://www.mabl.com/blog/testing-harness-vs.-coding-harness-why-it-matters-mabl": "2026-10-28T12:20:53.637188+00:00",
-  "https://portswigger.net/research/scalable-vector-grief": "2026-10-28T12:20:53.637188+00:00",
-  "https://www.intigriti.com/researchers/blog/hacking-tools/exploiting-advanced-llm-prompt-injection-vulnerabilities": "2026-10-28T12:20:53.637188+00:00",
-  "https://bishopfox.com/blog/responder-guidance-for-php2shell": "2026-10-28T12:20:53.637188+00:00",
-  "https://xakep.ru/2026/10/28/biznes-zh/": "2026-10-28T12:20:53.637188+00:00",
-  "https://xakep.ru/2026/10/28/kali-linux-2026-3/": "2026-10-28T12:20:53.637188+00:00",
-  "https://habr.com/ru/articles/1097210/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1097210": "2026-10-28T12:20:53.637188+00:00",
   "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development": "2026-10-29T12:30:17.321384+00:00",
   "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance": "2026-10-29T12:30:17.321384+00:00",
   "https://habr.com/ru/articles/1101184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101184": "2026-10-29T12:30:17.321384+00:00",
@@ -56,5 +48,13 @@
   "https://xakep.ru/2026/11/09/cve-2026-119977/": "2026-11-09T15:32:52.406923+00:00",
   "https://xakep.ru/2026/11/09/tools-332/": "2026-11-09T15:32:52.406923+00:00",
   "https://xakep.ru/2026/11/10/bluetooth-cve/": "2026-11-10T14:30:57.966749+00:00",
-  "https://xakep.ru/2026/11/10/torvalds-ai-patches/": "2026-11-10T14:30:57.966749+00:00"
+  "https://xakep.ru/2026/11/10/torvalds-ai-patches/": "2026-11-10T14:30:57.966749+00:00",
+  "https://developer.android.com/blog/posts/open-source-google-sign-in-unity": "2026-11-11T13:46:03.085741+00:00",
+  "https://habr.com/ru/companies/yandex/articles/1105352/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1105352": "2026-11-11T13:46:03.085741+00:00",
+  "https://habr.com/ru/articles/1106592/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106592": "2026-11-11T13:46:03.085741+00:00",
+  "https://www.mabl.com/blog/ai-agents-for-software-development-testing-guide-mabl": "2026-11-11T13:46:03.085741+00:00",
+  "https://www.intigriti.com/blog/business-insights/what-a-live-hacking-event-with-intigriti-can-do": "2026-11-11T13:46:03.085741+00:00",
+  "https://bishopfox.com/blog/ai-security-assessment-six-step-full-stack-evaluation-standard": "2026-11-11T13:46:03.085741+00:00",
+  "https://xakep.ru/2026/11/11/etherhiding-2/": "2026-11-11T13:46:03.085741+00:00",
+  "https://xakep.ru/2026/11/11/digicert-leak/": "2026-11-11T13:46:03.085741+00:00"
 }
