@@ -1,11 +1,4 @@
 {
-  "https://developer.android.com/blog/posts/build-it-your-way-a-next-era-of-android-development": "2026-10-29T12:30:17.321384+00:00",
-  "https://developer.android.com/blog/posts/android-dev-summit-26-developer-tools-performance": "2026-10-29T12:30:17.321384+00:00",
-  "https://habr.com/ru/articles/1101184/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101184": "2026-10-29T12:30:17.321384+00:00",
-  "https://www.mabl.com/blog/agentic-testing": "2026-10-29T12:30:17.321384+00:00",
-  "https://portswigger.net/blog/heading-to-san-francisco-meet-portswigger-at-owasp-global-appsec-usa-2026": "2026-10-29T12:30:17.321384+00:00",
-  "https://xakep.ru/2026/10/29/dreamhost-incedent/": "2026-10-29T12:30:17.321384+00:00",
-  "https://xakep.ru/2026/10/29/github-malware-2/": "2026-10-29T12:30:17.321384+00:00",
   "https://www.mabl.com/blog/scaling-testing-agents-across-the-enterprise": "2026-10-30T12:22:06.109185+00:00",
   "https://bishopfox.com/blog/journey-into-claudes-sandbox": "2026-10-30T12:22:06.109185+00:00",
   "https://xakep.ru/2026/10/30/intelbras/": "2026-10-30T12:22:06.109185+00:00",
@@ -56,5 +49,12 @@
   "https://www.intigriti.com/blog/business-insights/what-a-live-hacking-event-with-intigriti-can-do": "2026-11-11T13:46:03.085741+00:00",
   "https://bishopfox.com/blog/ai-security-assessment-six-step-full-stack-evaluation-standard": "2026-11-11T13:46:03.085741+00:00",
   "https://xakep.ru/2026/11/11/etherhiding-2/": "2026-11-11T13:46:03.085741+00:00",
-  "https://xakep.ru/2026/11/11/digicert-leak/": "2026-11-11T13:46:03.085741+00:00"
+  "https://xakep.ru/2026/11/11/digicert-leak/": "2026-11-11T13:46:03.085741+00:00",
+  "https://developer.android.com/blog/posts/smileid-camerax-android-identity-verification": "2026-11-12T14:49:51.308067+00:00",
+  "https://habr.com/ru/companies/infostart/articles/1106892/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1106892": "2026-11-12T14:49:51.308067+00:00",
+  "https://habr.com/ru/companies/runity/articles/1107000/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107000": "2026-11-12T14:49:51.308067+00:00",
+  "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp": "2026-11-12T14:49:51.308067+00:00",
+  "https://bishopfox.com/blog/proofpoint-itm-4-4-3-148-5-0-1": "2026-11-12T14:49:51.308067+00:00",
+  "https://xakep.ru/2026/11/12/dreame-d9-reverse/": "2026-11-12T14:49:51.308067+00:00",
+  "https://xakep.ru/2026/11/12/maersk-whitearmor/": "2026-11-12T14:49:51.308067+00:00"
 }
