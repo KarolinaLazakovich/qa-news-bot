@@ -1,8 +1,4 @@
 {
-  "https://www.mabl.com/blog/scaling-testing-agents-across-the-enterprise": "2026-10-30T12:22:06.109185+00:00",
-  "https://bishopfox.com/blog/journey-into-claudes-sandbox": "2026-10-30T12:22:06.109185+00:00",
-  "https://xakep.ru/2026/10/30/intelbras/": "2026-10-30T12:22:06.109185+00:00",
-  "https://xakep.ru/2026/10/30/binance-hacked/": "2026-10-30T12:22:06.109185+00:00",
   "https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101232": "2026-11-02T15:02:40.922724+00:00",
   "https://jordi.inversethought.com/blog/the-kluever-maneuver/": "2026-11-02T15:02:40.922724+00:00",
   "https://jepsen.io/analyses/particledb-1.1.4": "2026-11-02T15:02:40.922724+00:00",
@@ -56,5 +52,11 @@
   "https://portswigger.net/research/blind-trust-stealing-credentials-through-csp": "2026-11-12T14:49:51.308067+00:00",
   "https://bishopfox.com/blog/proofpoint-itm-4-4-3-148-5-0-1": "2026-11-12T14:49:51.308067+00:00",
   "https://xakep.ru/2026/11/12/dreame-d9-reverse/": "2026-11-12T14:49:51.308067+00:00",
-  "https://xakep.ru/2026/11/12/maersk-whitearmor/": "2026-11-12T14:49:51.308067+00:00"
+  "https://xakep.ru/2026/11/12/maersk-whitearmor/": "2026-11-12T14:49:51.308067+00:00",
+  "https://habr.com/ru/companies/usetech/articles/1107384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107384": "2026-11-13T14:09:25.671540+00:00",
+  "https://habr.com/ru/companies/bhv_publishing/articles/1107524/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1107524": "2026-11-13T14:09:25.671540+00:00",
+  "https://www.mabl.com/blog/agentic-ai-software-testing-build-vs-buy": "2026-11-13T14:09:25.671540+00:00",
+  "https://bishopfox.com/blog/inside-cirro-enumeration-as-a-restricted-guest": "2026-11-13T14:09:25.671540+00:00",
+  "https://xakep.ru/2026/11/13/android-appops-cve/": "2026-11-13T14:09:25.671540+00:00",
+  "https://xakep.ru/2026/11/13/railway-hack/": "2026-11-13T14:09:25.671540+00:00"
 }
