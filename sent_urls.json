@@ -1,10 +1,4 @@
 {
-  "https://habr.com/ru/companies/tochka/articles/1101232/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1101232": "2026-11-02T15:02:40.922724+00:00",
-  "https://jordi.inversethought.com/blog/the-kluever-maneuver/": "2026-11-02T15:02:40.922724+00:00",
-  "https://jepsen.io/analyses/particledb-1.1.4": "2026-11-02T15:02:40.922724+00:00",
-  "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-241-october-2026": "2026-11-02T15:02:40.922724+00:00",
-  "https://xakep.ru/2026/11/02/htb-makesense/": "2026-11-02T15:02:40.922724+00:00",
-  "https://xakep.ru/2026/11/02/binance-tradertraitor/": "2026-11-02T15:02:40.922724+00:00",
   "https://www.browserstack.com/blog/a-new-look-for-the-next-era-of-browserstack/": "2026-11-03T13:48:46.348314+00:00",
   "https://app14743.cloudwayssites.com/blog/customer-product-alignment-engineering-time/": "2026-11-03T13:48:46.348314+00:00",
   "https://developer.android.com/blog/posts/building-apps-developer-sessions": "2026-11-03T13:48:46.348314+00:00",
@@ -58,5 +52,9 @@
   "https://www.mabl.com/blog/agentic-ai-software-testing-build-vs-buy": "2026-11-13T14:09:25.671540+00:00",
   "https://bishopfox.com/blog/inside-cirro-enumeration-as-a-restricted-guest": "2026-11-13T14:09:25.671540+00:00",
   "https://xakep.ru/2026/11/13/android-appops-cve/": "2026-11-13T14:09:25.671540+00:00",
-  "https://xakep.ru/2026/11/13/railway-hack/": "2026-11-13T14:09:25.671540+00:00"
+  "https://xakep.ru/2026/11/13/railway-hack/": "2026-11-13T14:09:25.671540+00:00",
+  "https://habr.com/ru/companies/avito/articles/1108376/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1108376": "2026-11-16T15:09:53.968496+00:00",
+  "https://aphyr.com/posts/428-announcing-hegel-clj": "2026-11-16T15:09:53.968496+00:00",
+  "https://xakep.ru/2026/11/16/htb-nimbus/": "2026-11-16T15:09:53.968496+00:00",
+  "https://xakep.ru/2026/11/16/cve-2026-125350/": "2026-11-16T15:09:53.968496+00:00"
 }
