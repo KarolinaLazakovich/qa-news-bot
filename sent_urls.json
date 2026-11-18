@@ -1,9 +1,4 @@
 {
-  "https://www.mabl.com/blog/generative-ai-in-software-testing": "2026-11-04T13:56:55.603248+00:00",
-  "https://www.intigriti.com/blog/business-insights/the-ai-pentesting-wave-pay-for-effort-vs-pay-for-impact": "2026-11-04T13:56:55.603248+00:00",
-  "https://bishopfox.com/blog/ai-findings-are-cheap-to-find-costly-to-trust": "2026-11-04T13:56:55.603248+00:00",
-  "https://xakep.ru/2026/11/03/freezers-hack/": "2026-11-04T13:56:55.603248+00:00",
-  "https://xakep.ru/2026/11/03/binance-withdrawals/": "2026-11-04T13:56:55.603248+00:00",
   "https://app14743.cloudwayssites.com/blog/plain-english-test-automation-applitools/": "2026-11-05T14:15:16.267506+00:00",
   "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates": "2026-11-05T14:15:16.267506+00:00",
   "https://www.mabl.com/blog/blocking-pr-gates-test-ownership": "2026-11-05T14:15:16.267506+00:00",
@@ -53,5 +48,12 @@
   "https://developer.android.com/blog/posts/beyond-the-app-google-play-buyer-reach": "2026-11-17T15:40:17.103853+00:00",
   "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/": "2026-11-17T15:40:17.103853+00:00",
   "https://xakep.ru/2026/11/17/wfx-loot/": "2026-11-17T15:40:17.103853+00:00",
-  "https://xakep.ru/2026/11/17/powershell-juice-shop/": "2026-11-17T15:40:17.103853+00:00"
+  "https://xakep.ru/2026/11/17/powershell-juice-shop/": "2026-11-17T15:40:17.103853+00:00",
+  "https://developer.android.com/blog/posts/ship-smarter-keep-rules-unblock-dex-optimization": "2026-11-18T15:18:58.077314+00:00",
+  "https://www.mabl.com/blog/autonomous-testing-readiness": "2026-11-18T15:18:58.077314+00:00",
+  "https://danluu.com/astra-testing/": "2026-11-18T15:18:58.077314+00:00",
+  "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals": "2026-11-18T15:18:58.077314+00:00",
+  "https://bishopfox.com/blog/tracing-cves-to-deployed-code": "2026-11-18T15:18:58.077314+00:00",
+  "https://xakep.ru/2026/11/18/office-macro-canaries/": "2026-11-18T15:18:58.077314+00:00",
+  "https://xakep.ru/2026/11/18/noisytcp/": "2026-11-18T15:18:58.077314+00:00"
 }
