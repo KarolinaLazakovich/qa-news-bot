@@ -1,11 +1,4 @@
 {
-  "https://app14743.cloudwayssites.com/blog/plain-english-test-automation-applitools/": "2026-11-05T14:15:16.267506+00:00",
-  "https://developer.android.com/blog/posts/build-for-every-screen-jetpack-compose-updates": "2026-11-05T14:15:16.267506+00:00",
-  "https://www.mabl.com/blog/blocking-pr-gates-test-ownership": "2026-11-05T14:15:16.267506+00:00",
-  "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/": "2026-11-05T14:15:16.267506+00:00",
-  "https://portswigger.net/research/making-http-header-injection-critical-with-one-prompt": "2026-11-05T14:15:16.267506+00:00",
-  "https://xakep.ru/2026/11/05/math-reverse/": "2026-11-05T14:15:16.267506+00:00",
-  "https://xakep.ru/2026/11/05/lixiang-blackmail/": "2026-11-05T14:15:16.267506+00:00",
   "https://developer.android.com/blog/posts/android-intelligence-system-in-app-agents-ads": "2026-11-06T13:54:54.856868+00:00",
   "https://habr.com/ru/companies/vkusvill/articles/1104486/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104486": "2026-11-06T13:54:54.856868+00:00",
   "https://habr.com/ru/companies/otus/news/1104384/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1104384": "2026-11-06T13:54:54.856868+00:00",
@@ -55,5 +48,11 @@
   "https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals": "2026-11-18T15:18:58.077314+00:00",
   "https://bishopfox.com/blog/tracing-cves-to-deployed-code": "2026-11-18T15:18:58.077314+00:00",
   "https://xakep.ru/2026/11/18/office-macro-canaries/": "2026-11-18T15:18:58.077314+00:00",
-  "https://xakep.ru/2026/11/18/noisytcp/": "2026-11-18T15:18:58.077314+00:00"
+  "https://xakep.ru/2026/11/18/noisytcp/": "2026-11-18T15:18:58.077314+00:00",
+  "https://developer.android.com/blog/posts/elevating-game-quality-foldables-large-screens-google-play": "2026-11-19T15:25:52.347092+00:00",
+  "https://developer.android.com/blog/posts/jetpack-compose-november-2026-release": "2026-11-19T15:25:52.347092+00:00",
+  "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/": "2026-11-19T15:25:52.347092+00:00",
+  "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-with-ai-how-to-prevent-your-ai-from-going-rogue": "2026-11-19T15:25:52.347092+00:00",
+  "https://xakep.ru/2026/11/19/proxy-research/": "2026-11-19T15:25:52.347092+00:00",
+  "https://xakep.ru/2026/11/19/4everable2shell/": "2026-11-19T15:25:52.347092+00:00"
 }
