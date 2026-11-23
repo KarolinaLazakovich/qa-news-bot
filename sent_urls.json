@@ -1,9 +1,4 @@
 {
-  "https://developer.android.com/blog/posts/build-android-xr-devices-tools": "2026-11-09T15:32:52.406923+00:00",
-  "https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/": "2026-11-09T15:32:52.406923+00:00",
-  "https://alperenkeles.com/posts/bug-finding-considered-harmful/": "2026-11-09T15:32:52.406923+00:00",
-  "https://xakep.ru/2026/11/09/cve-2026-119977/": "2026-11-09T15:32:52.406923+00:00",
-  "https://xakep.ru/2026/11/09/tools-332/": "2026-11-09T15:32:52.406923+00:00",
   "https://xakep.ru/2026/11/10/bluetooth-cve/": "2026-11-10T14:30:57.966749+00:00",
   "https://xakep.ru/2026/11/10/torvalds-ai-patches/": "2026-11-10T14:30:57.966749+00:00",
   "https://developer.android.com/blog/posts/open-source-google-sign-in-unity": "2026-11-11T13:46:03.085741+00:00",
@@ -53,5 +48,9 @@
   "https://www.mabl.com/blog/agentic-sdlc": "2026-11-20T15:02:06.162526+00:00",
   "https://www.mabl.com/blog/beyond-friday-the-13th-building-trust-in-the-enterprise": "2026-11-20T15:02:06.162526+00:00",
   "https://xakep.ru/2026/11/20/citrix-bleed-3/": "2026-11-20T15:02:06.162526+00:00",
-  "https://xakep.ru/2026/11/20/30-days/": "2026-11-20T15:02:06.162526+00:00"
+  "https://xakep.ru/2026/11/20/30-days/": "2026-11-20T15:02:06.162526+00:00",
+  "https://habr.com/ru/articles/1110436/?utm_source=habrahabr&utm_medium=rss&utm_campaign=1110436": "2026-11-23T17:38:27.689799+00:00",
+  "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/": "2026-11-23T17:38:27.689799+00:00",
+  "https://xakep.ru/2026/11/23/win-activation-bug/": "2026-11-23T17:38:27.689799+00:00",
+  "https://xakep.ru/2026/11/23/gentlemen-nvidia/": "2026-11-23T17:38:27.689799+00:00"
 }
